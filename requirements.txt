@@ -1,2 +1,5 @@
-taipy==3.*
-pandas>=2.0.0
+taipy==3.1.4
+pandas>=2.0.0,<2.4
+gevent==23.7.0
+
+
